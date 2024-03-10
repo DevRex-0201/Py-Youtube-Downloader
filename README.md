@@ -4,6 +4,10 @@
 
 This Python script allows you to download YouTube videos using the `pytube` library. Simply provide a list of YouTube video URLs, and the script will download the videos in the highest resolution available. The downloaded videos will be saved to a specified output directory.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Youtube-Downloader.png)](https://drive.google.com/file/d/1ztljYdrFuyDd719e1CdsK2Rp_9prfKuF/view?usp=drive_link)
+
 ## Features
 
 - Download YouTube videos in the highest resolution.
