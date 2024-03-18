@@ -6,7 +6,7 @@ This Python script allows you to download YouTube videos using the `pytube` libr
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Youtube-Downloader.png)](https://drive.google.com/file/d/1ztljYdrFuyDd719e1CdsK2Rp_9prfKuF/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Youtube-Downloader.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Youtube-Downloader.mp4)
 
 ## Features
 
